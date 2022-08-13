@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Tata Cliq website clone](https://github.com/premsg1610/Unit-2-Project---Tata-Cliq)
+- 🔭 I’m currently Studying at [Masai School](https://www.masaischool.com/)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js , Node Js, MONGODB**
 
 - 💬 Ask me about **React.js,JavaScript,HTML,CSS,Git**
 
