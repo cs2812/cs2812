@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **cs786786786@gmail.com**
 
+- 📄 Resume **https://drive.google.com/file/d/1wq_QoYh487qx6528TAEaZN2y1fSfI3Py/view?usp=sharing**
+
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
