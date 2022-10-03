@@ -1,6 +1,14 @@
 [![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)]
 <h1 align="center">Hi 👋, I'm Chetan Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+
+<h3 align="left">Professional Summary:</h3>
+<p>Enthusiastic and passionate Full Stack Web
+Developer with a specialization in MERN stack.
+Always push to learn new things and work on
+them with interest. Skilled, collaborative and
+have the ability to adapt to a new environment
+quickly.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cs2812&label=Profile%20views&color=0e75b6&style=flat" alt="cs2812" /> </p>
 
