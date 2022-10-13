@@ -24,7 +24,7 @@ quickly.</p>
 
 - 📫 How to reach me **cs786786786@gmail.com**
 
-- 📄 Resume **https://drive.google.com/file/d/1wq_QoYh487qx6528TAEaZN2y1fSfI3Py/view?usp=sharing**
+- 📄 Resume **https://drive.google.com/file/d/1zCtGJuUC8Qxk6Mt2bfd85HI59qaeE1pp/view?usp=sharing**
 
 - ⚡ Fun fact **I am funny**
 
