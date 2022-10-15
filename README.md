@@ -3,10 +3,10 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <h3 align="left">Professional Summary:</h3>
-<p>Enthusiastic and passionate Full Stack Web
+<p>I am Enthusiastic and passionate Full Stack Web
 Developer with a specialization in MERN stack.
-Always push to learn new things and work on
-them with interest. Skilled, collaborative and
+Always excited to learn new things and work on
+them with interest. I am Skilled, collaborative and
 have the ability to adapt to a new environment
 quickly.</p>
 
