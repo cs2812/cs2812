@@ -18,7 +18,7 @@ quickly.</p>
 
 - 🔭 I’m currently studying at [Masai School](https://github.com/premsg1610/Unit-2-Project---Tata-Cliq)
 
-- 🌱 I’m currently learning **React.js, NodeJS, Typescript**
+- 🌱 I’m currently learning **Typescript,AWS DynamoDB**
 
 - 💬 Ask me about **React.js, Redux, JavaScript, HTML, CSS, Github**
 
