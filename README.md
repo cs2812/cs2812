@@ -22,7 +22,7 @@ quickly.</p>
 
 - 💬 Ask me about **React.js, Redux, JavaScript, HTML, CSS, Github**
 
-- 📫 How to reach me **cs786786786@gmail.com**
+- 📫 How to reach me **chetansharma3035@gmail.com**
 
 - 📄 Resume **https://drive.google.com/file/d/1zCtGJuUC8Qxk6Mt2bfd85HI59qaeE1pp/view?usp=sharing**
 
